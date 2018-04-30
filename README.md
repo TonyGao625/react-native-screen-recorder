@@ -5,7 +5,7 @@
 
 npm install react-native-screen-recorder --save
 
-or yarn install react-native-screen-recorder
+or yarn add react-native-screen-recorder
 
 Manual Installation
 
