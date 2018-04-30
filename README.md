@@ -46,7 +46,11 @@ Add the required permissions in AndroidManifest.xml:
 ```
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 ```
+register the screen recorder service in AndroidManifest.xml:
 
+```
+<service android:name="com.shinetechchina.react_native_screen_recorder.RecordService"/>
+```
 
 Add the import and link the package in MainApplication.java:
 
