@@ -1,17 +1,28 @@
 {
   "name": "react-native-screen-recorder",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A React Native module that allows you to capture the screen and save it in specific directory",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TonyGao625/react-native-screen-recorder.git"
+  },
+  "nativePackage": true,
   "keywords": [
     "react-native",
     "react-native-screen-recorder",
     "react",
     "native",
     "Screen Capture"
+  ],
+  "contributors": [
+    {
+      "name": "Chang Gow",
+      "email": "784627606@qq.com"
+    }
   ],
   "author": "Chang Gow",
   "license": "ISC"
