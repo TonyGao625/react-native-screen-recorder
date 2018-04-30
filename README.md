@@ -98,7 +98,7 @@ export default class App extends Component<Props> {
 
 if you stop record, you will notice that a directory called ScreenRecord will be created in your root directory of your SD card.
 
-A mp4 file will be created in that directory.
+A mp4 file will be stored in that directory.
 
 
 
