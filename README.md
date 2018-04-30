@@ -51,7 +51,7 @@ Add the required permissions in AndroidManifest.xml:
 Add the import and link the package in MainApplication.java:
 
 ```
-import com.shinetechchina.react_native_screen_recorder.RecordService;
+import com.shinetechchina.react_native_screen_recorder.RecordService;  // <-- add this import
 import com.shinetechchina.react_native_screen_recorder.ScreenRecorderPackage; // <-- add this import
 ```
 ```
